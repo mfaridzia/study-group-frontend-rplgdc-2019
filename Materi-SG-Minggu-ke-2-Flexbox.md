@@ -4,6 +4,10 @@
 - Flex items: Child atau yang berada di dalam flex container
 - Ini adalah pondasi buat memahami flexbox lebih lanjut
 
+# Menggunakan Flexbox
+
+- Untuk menggunakan flexbox kalian harus mendekrasikan property *display: flex;* pada pada parent elemen/flex container nya.
+
 ## The Flex Container Properties / Parent
 
 - Flex-direction: || Flex-wrap || Flex-flow || Justify-content || Align-items || Align-content
