@@ -5,3 +5,10 @@
  - https://sass-lang.com/
 
  - https://sass-lang.com/documentation/file.SASS_REFERENCE.html
+ 
+ 
+ 
+ ### Case Study Implementasi Flexbox + SASS
+
+- Contoh studi kasus buat web Landing Page
+- https://mfaridzia.github.io/study-group-frontend-rplgdc-2019/
