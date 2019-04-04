@@ -60,7 +60,8 @@
 - Digunakan untuk membuat elemen lebarnya menyusut ketika dibutuhkan, kebalikan dari flex  grow yang meluas nilai default 1
 
 ### Flex Basis 
-Untuk mengatur lebar awal sebuah elemen, nilai defaultnya auto mengikuti isi content di dalam elemennya
+
+- Untuk mengatur lebar awal sebuah elemen, nilai defaultnya auto mengikuti isi content di dalam elemennya
 
 
 ### Flex 
@@ -71,7 +72,8 @@ Untuk mengatur lebar awal sebuah elemen, nilai defaultnya auto mengikuti isi con
 
 ### Auto Margin Elemen / Alignment Pada Flex Items
 
-- Ketika menggunakan auto margin maka justify-content tidak akan bekerja pada flex-items margin-right: auto //contoh penggunaan auto margin
+- Ketika menggunakan auto margin maka justify-content tidak akan bekerja pada flex-items 
+- margin-right: auto //contoh penggunaan auto margin
 
 ### Auto Margin untuk Navigation System 
 
