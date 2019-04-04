@@ -4,8 +4,6 @@
 - Flex items: Child atau yang berada di dalam flex container
 - Ini adalah pondasi buat memahami flexbox lebih lanjut
 
-# Flex Container / Parent
-
 ## The Flex Container Properties / Parent
 
 - Flex-direction: || Flex-wrap || Flex-flow || Justify-content || Align-items || Align-content
@@ -39,8 +37,6 @@
 - Untuk memposisikan elemen pada multi lines elemen dan posisi defaultnya adalah horizontal, nilainya dan cara pakenya sama dengan align items
 
 
-# Flex Items / Child
-
 ## The Flex Items Properties / Child
 
 - Order || Flex-grow || Flex-shrink || Flex-basis
@@ -65,12 +61,10 @@ Untuk mengatur lebar awal sebuah elemen, nilai defaultnya auto mengikuti isi con
 ## Flex relative: lebar berdasarkan ukuran atau isi contentnya, flex: auto/ flex: 1 1 auto;
 ## Flex absolute: lebar berdasarkan flexnya, flex: 1/ flex: 1 1 0;
 
-##Flex untuk singkat grow, shrink dan basis 
+## Flex untuk penyingkat penulisan grow, shrink dan basis 
 
-- flex: 0 1 auto; //nilai default
+- flex: 0 1 auto; //nilai defaultnya
 
-
-# Auto Margin Elemen / Alignment Pada Flex Items
 
 ## Auto Margin Elemen / Alignment Pada Flex Items
 
