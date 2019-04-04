@@ -62,13 +62,6 @@
 ### Flex Basis 
 Untuk mengatur lebar awal sebuah elemen, nilai defaultnya auto mengikuti isi content di dalam elemennya
 
-### Flex relative
-
-- Lebar berdasarkan ukuran atau isi contentnya, flex: auto/ flex: 1 1 auto;
-
-### Flex absolute
-
-- Lebar berdasarkan flexnya, flex: 1/ flex: 1 1 0;
 
 ### Flex 
 
