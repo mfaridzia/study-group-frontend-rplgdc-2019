@@ -58,10 +58,18 @@
 ### Flex Basis 
 Untuk mengatur lebar awal sebuah elemen, nilai defaultnya auto mengikuti isi content di dalam elemennya
 
-- Flex relative: lebar berdasarkan ukuran atau isi contentnya, flex: auto/ flex: 1 1 auto;
-- Flex absolute: lebar berdasarkan flexnya, flex: 1/ flex: 1 1 0;
+### Flex relative
 
-- Flex untuk penyingkat penulisan grow, shrink dan basis, cara pake: flex: 0 1 auto; //nilai defaultnya
+- Lebar berdasarkan ukuran atau isi contentnya, flex: auto/ flex: 1 1 auto;
+
+### Flex absolute
+
+- Lebar berdasarkan flexnya, flex: 1/ flex: 1 1 0;
+
+### Flex 
+
+- Untuk penyingkat penulisan properti grow, shrink dan basis, 
+- Cara pake: flex: 0 1 auto; //nilai defaultnya
 
 
 ### Auto Margin Elemen / Alignment Pada Flex Items
