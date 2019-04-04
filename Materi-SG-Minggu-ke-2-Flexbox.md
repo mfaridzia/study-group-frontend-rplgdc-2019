@@ -80,12 +80,6 @@
 - Contoh Lihat Navigasi Twitter atau Instagram
 
 
-### Case Study Implementasi Flexbox + SASS
-
-- Contoh studi kasus buat web Landing Page
-- https://mfaridzia.github.io/study-group-frontend-rplgdc-2019/
-
-
 ### Referensi Lebih Tentang Flexbox
 
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
