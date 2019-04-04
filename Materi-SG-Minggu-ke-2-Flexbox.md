@@ -12,10 +12,10 @@
 
 - Flex-direction: || Flex-wrap || Flex-flow || Justify-content || Align-items || Align-content
 
-### Flex direaction: column, row, row-reverse, column-reverse
+### Flex direction: column, row, row-reverse, column-reverse
 
 - Untuk menentukan posisi nya horizontal atau vertical
-- Cara pake: flex-direaction: column
+- Cara pake: flex-direction: column
 
 ### Flex wrap: wrap, nowrap, wrap-reverse
 
