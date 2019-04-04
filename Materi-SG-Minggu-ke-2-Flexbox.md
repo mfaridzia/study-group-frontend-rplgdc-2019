@@ -58,15 +58,15 @@
 ### Flex Basis 
 Untuk mengatur lebar awal sebuah elemen, nilai defaultnya auto mengikuti isi content di dalam elemennya
 
-## Flex relative: lebar berdasarkan ukuran atau isi contentnya, flex: auto/ flex: 1 1 auto;
-## Flex absolute: lebar berdasarkan flexnya, flex: 1/ flex: 1 1 0;
+### Flex relative: lebar berdasarkan ukuran atau isi contentnya, flex: auto/ flex: 1 1 auto;
+### Flex absolute: lebar berdasarkan flexnya, flex: 1/ flex: 1 1 0;
 
-## Flex untuk penyingkat penulisan grow, shrink dan basis 
+### Flex untuk penyingkat penulisan grow, shrink dan basis 
 
 - flex: 0 1 auto; //nilai defaultnya
 
 
-## Auto Margin Elemen / Alignment Pada Flex Items
+### Auto Margin Elemen / Alignment Pada Flex Items
 
 - Ketika menggunakan auto margin maka justify-content tidak akan bekerja pada flex-items margin-right: auto //contoh penggunaan auto margin
 
@@ -75,12 +75,12 @@ Untuk mengatur lebar awal sebuah elemen, nilai defaultnya auto mengikuti isi con
 - Contoh Lihat Navigasi Twitter atau Instagram
 
 
-## Case Study Implementasi Flexbox + SASS
+### Case Study Implementasi Flexbox + SASS
 
 - Contoh studi kasus buat web Landing Page
 
 
-## Referensi Lebih Tentang Flexbox
+### Referensi Lebih Tentang Flexbox
 
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - https://medium.freecodecamp.org/the-complete-illustrated-flexbox-tutorial-d35c085dbf35
