@@ -269,10 +269,12 @@ ol {
 @media screen and (max-width: 980px) {
   .header__desc {
     text-align: center;
-    margin-top: 160px;
+    margin-top: 80px;
+    font-size: 30px;
   }
   .header__sub-desc {
     width: 90%;
+    font-size: 19px;
   }
   .nav {
     width: 100%;
@@ -310,6 +312,15 @@ ol {
   }
   .choose {
     width: 90%;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .nav li {
+    padding: 8px;
+  }
+  .nav a {
+    font-size: 11px;
   }
 }
 /*# sourceMappingURL=bundle.css.map */
